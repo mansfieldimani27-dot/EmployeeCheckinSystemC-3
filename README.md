@@ -5,7 +5,8 @@ The Employee Check-in System is a simple C++ console application that allows
 employees to record their check-in information. The program stores employee IDs,
 names, and timestamps in a log file for attendance tracking.
 
-##Features 
+## Features 
+
 - Employee ID entry
 - Employee name entry
 - Automatic date and time recording
@@ -13,20 +14,23 @@ names, and timestamps in a log file for attendance tracking.
 - Simple menu-driven interface
 - Persistent attendance logs
 
-##Technologies Used
+## Technologies Used
+
 - C++
 - File Handling
 - Date and Time Functions
 - Console-Based User interface
 
-##How it works
+## How it works
+
 1. Employee selects Check in.
 2. Employee enters their ID and name
 3. The system automatically records the current date and time.
 4. Information is saved to logs.txt
 5. Employee receives confirmation of successsful check-in.
 
-##Sample Output
+## Sample Output
+
 1. Check in
 2. Exit
       Choice:1
