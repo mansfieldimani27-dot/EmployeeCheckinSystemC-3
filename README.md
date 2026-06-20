@@ -36,4 +36,4 @@ names, and timestamps in a log file for attendance tracking.
       Choice:1
    Enter ID: 1001
    Enter Name: John Smith
-        Check-in recorded at Thu Jun 20 14:35:00 2026v<<<
+        Check-in recorded at Thu Jun 20 14:35:00 2026v<<< 
