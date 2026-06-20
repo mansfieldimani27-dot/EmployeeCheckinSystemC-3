@@ -6,18 +6,18 @@ employees to record their check-in information. The program stores employee IDs,
 names, and timestamps in a log file for attendance tracking.
 
 ##Features 
-Employee ID entry
-Employee name entry
-Automatic date and time recording
-Saves records to a text file
-Simple menu-driven interface
-Persistent attendance logs
+- Employee ID entry
+- Employee name entry
+- Automatic date and time recording
+- Saves records to a text file
+- Simple menu-driven interface
+- Persistent attendance logs
 
 ##Technologies Used
-C++
-File Handling
-Date and Time Functions
-Console-Based User interface
+- C++
+- File Handling
+- Date and Time Functions
+- Console-Based User interface
 
 ##How it works
 1. Employee selects Check in.
@@ -26,7 +26,7 @@ Console-Based User interface
 4. Information is saved to logs.txt
 5. Employee receives confirmation of successsful check-in.
 
-##Sample Out
+##Sample Output
 1. Check in
 2. Exit
       Choice:1
