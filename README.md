@@ -26,7 +26,7 @@ Console-Based User interface
 4. Information is saved to logs.txt
 5. Employee receives confirmation of successsful check-in.
 
-##SAmple Out
+##Sample Out
 1. Check in
 2. Exit
       Choice:1
